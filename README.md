@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently working on becoming an SDET.
 - 💞️ I’m looking to collaborate on ...still exploring things.
-- 📫 How to reach me mo_oks33@hotmail.com
+- 📫 How to reach me kliment369@gmail.com
 
 <!---
 kliment5/kliment5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
